@@ -48,7 +48,7 @@ The application utilizes multi-threading to handle long-running compression and 
 
 2. Navigate to the project directory
     ```bash
-    cd Compressor_Decompressor
+    cd compressor_decompressor
 
 3. Compile the Java code
     ```bash
