@@ -36,8 +36,8 @@ The application utilizes multi-threading to handle long-running compression and 
 
 ## Download Links
 
-- [Download JAR (requires Java installed)](https://github.com/vivek-384/Compressor_Decompressor/raw/main/CompressorDecompressor.jar)
-- [Download EXE](https://github.com/vivek-384/Compressor_Decompressor/raw/main/Compressor_Decompressor.exe)
+- [Download JAR (requires Java installed)](https://github.com/vivek-384/compressor_decompressor/raw/main/CompressorDecompressor.jar)
+- [Download EXE](https://github.com/vivek-384/compressor_decompressor/raw/main/Compressor_Decompressor.exe)
 
 ## Getting Started
 
