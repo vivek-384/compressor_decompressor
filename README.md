@@ -57,7 +57,7 @@ The application utilizes multi-threading to handle long-running compression and 
 ## Screenshot
 
 ### User Interface
-![Compression/Decompression UI](screenshot/compressor_decompressor.png)
+![Compression/Decompression UI](screenshot/compressor_decompressor.PNG)
 
 ## Conclusion
 
